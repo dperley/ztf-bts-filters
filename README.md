@@ -12,4 +12,4 @@ The Bright Transient Survey (BTS) aims to record and announce all extragalactic 
 
 The filters parse ZTF avro packets converted to python lists/dictionaries.  See the ZTF avro schema (https://zwickytransientfacility.github.io/ztf-avro-alert/) for more information.
 
-Further explanation of these filters can be found in Fremling et al. (2020, ApJ 895:32) and Perley et al. (in prep).
+Further explanation of these filters can be found in Fremling et al. (2020, ApJ 895:32) and Perley et al. (arXiv:2009.01242).
